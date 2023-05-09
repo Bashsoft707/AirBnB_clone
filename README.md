@@ -343,8 +343,8 @@ Errors management must be the same as previously.
 ## 17. {'first_name': "John", "age": 89})   [ tests/test_console.py ] 
 
 Contributors:
-1. Manuel Dinis Júnior
-2. Adjamkwalim Akum-Yong
+1. Samuel Ekong Nkarah
+2. Bashsoft707
 
 ..........................................................................................................................
 
