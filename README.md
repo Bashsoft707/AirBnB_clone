@@ -344,8 +344,6 @@ Errors management must be the same as previously.
 
 Contributors:
 1. Samuel Ekong Nkarah
-2. Bashsoft707
+2. Aibu Mutakate
 
 ..........................................................................................................................
-
-## VIELEN DANK
